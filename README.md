@@ -1,5 +1,5 @@
 # QUIZ MANAGEMENT SYSTEM 
-# AUMENTA FEATURE SIRA BAZEIA BA PROFESSOR NIA SUJESTAUN.
+# 
 
 Quiz Management System – aumenta feature sira.
 Dokumentu ida-ne'e deskreve kona-ba projetu Quiz Management System nian no feature hotu ne'ebe aumenta iha dezenvolvimentu nia laran bazeia ba sujestaun sira ne’ebe Professor.
